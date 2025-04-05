@@ -1,17 +1,65 @@
-# Website Bán Giày
+# 👟 Phần Mềm Quản Lý Giày
 
-## Giới thiệu
-- Đồ Án Cơ Sở 1 tại trường.
-- Thành viên: 2.
-- Website Bán Giày là một nền tảng trực tuyến cho phép người dùng dễ dàng tìm kiếm, mua sắm các loại giày thể thao, giày công sở, giày thời trang và nhiều loại giày khác. Dự án nhằm mang đến trải nghiệm mua sắm tiện lợi và dễ dàng cho khách hàng qua giao diện thân thiện và chức năng dễ sử dụng.
+Phần mềm quản lý giày được thiết kế nhằm hỗ trợ các cửa hàng giày dép trong việc điều hành hoạt động kinh doanh một cách hiệu quả, hiện đại và chuyên nghiệp.
 
-## Các tính năng chính
-- **Danh mục giày đa dạng:** Các loại giày thể thao, giày công sở, giày thời trang, và nhiều loại khác.
-- **Tìm kiếm nhanh:** Tính năng tìm kiếm giúp người dùng tìm giày theo tên, loại, và mức giá.
-- **Giỏ hàng:** Người dùng có thể thêm giày vào giỏ và thanh toán dễ dàng.
-- **Quản lý tài khoản:** Đăng ký, đăng nhập và quản lý thông tin người dùng.
+---
 
-## Công nghệ sử dụng
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js,
-- **Cơ sở dữ liệu:** MySQL
+## 📝 Mô Tả
+
+Trong bối cảnh ngành giày dép ngày càng phát triển, việc quản lý cửa hàng cần có hệ thống chuyên biệt. Phần mềm này tập trung vào:
+
+- Theo dõi **xu hướng thị trường** và nhu cầu khách hàng.
+- **Tìm và quản lý nhà cung cấp** chất lượng.
+- Tối ưu **quy trình đặt hàng**, nhập kho và lưu trữ hàng hóa.
+- Áp dụng **công nghệ quản lý kho thông minh** để giảm sai sót.
+- Hỗ trợ **xây dựng thương hiệu** và tăng cường kết nối khách hàng thông qua tiếp thị và chăm sóc.
+- **Tạo trải nghiệm mua sắm tốt nhất** cho khách hàng bằng một hệ thống hiện đại, dễ sử dụng.
+
+---
+
+## ⚙️ Chức Năng
+
+### 👤 Quản Lý Người Dùng Theo Quyền Hạn
+
+Phần mềm phân quyền rõ ràng với 6 vai trò:
+
+1. **Chủ cửa hàng** – Toàn quyền sử dụng tất cả chức năng.
+2. **Thư ký** – Quản lý thống kê và xử lý file Excel.
+3. **Nhân viên kiểm tra hàng hóa** – Quản lý sản phẩm (thêm, sửa, xóa).
+4. **Nhân viên nhập hàng** – Tạo và quản lý phiếu nhập hàng.
+5. **Nhân viên làm khuyến mãi** – Tạo và quản lý chương trình khuyến mãi.
+6. **Nhân viên lập hóa đơn** – Tạo và xuất hóa đơn.
+
+### 📊 Quản Lý Excel và Thống Kê
+
+- **Đọc và xuất file Excel**.
+- **Thống kê doanh thu** theo ngày, tháng, quý và năm.
+- Tính toán **tổng thu – tổng chi – lợi nhuận**.
+- Hiển thị **hóa đơn cao nhất và thấp nhất**.
+
+### 📦 Quản Lý Sản Phẩm và Kho Hàng
+
+- Thêm, sửa, xóa sản phẩm.
+- Tạo **phiếu nhập hàng** chi tiết theo từng sản phẩm.
+
+### 🎁 Khuyến Mãi
+
+- Tạo mã khuyến mãi, thiết lập **thời gian áp dụng**, **tỉ lệ giảm giá**, và **sản phẩm áp dụng**.
+
+### 🧾 Hóa Đơn
+
+- Tạo hóa đơn chi tiết.
+- **Xuất hóa đơn ra file ảnh** phục vụ in ấn hoặc lưu trữ.
+
+---
+
+## 💻 Công Nghệ Sử Dụng
+
+- **Java** – Ngôn ngữ chính để xây dựng phần mềm.
+
+---
+
+## 📌 Ghi Chú
+
+- Phần mềm phù hợp cho các cửa hàng giày có quy mô từ nhỏ đến lớn.
+- Giao diện dễ sử dụng, phân quyền rõ ràng, bảo mật dữ liệu tốt.
