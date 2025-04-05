@@ -1,5 +1,6 @@
 # 👟 Phần Mềm Quản Lý Giày
 
+Đây là đồ án môn học Kỹ Năng Nghề Nghiệp được thực hiện tại trường nhằm mục tiêu xây dựng một hệ thống quản lý hiện đại, dễ sử dụng và hiệu quả trong việc xử lý dữ liệu.
 Phần mềm quản lý giày được thiết kế nhằm hỗ trợ các cửa hàng giày dép trong việc điều hành hoạt động kinh doanh một cách hiệu quả, hiện đại và chuyên nghiệp.
 
 ---
